@@ -1,0 +1,1 @@
+# codeclauseinternship_typing-speed-calculator
